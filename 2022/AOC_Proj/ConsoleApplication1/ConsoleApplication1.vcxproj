@@ -141,12 +141,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Day2.cpp" />
+    <ClCompile Include="Day3.cpp" />
     <ClCompile Include="FileReader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileReader.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="input3.txt" />
     <Text Include="input2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

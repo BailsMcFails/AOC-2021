@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int main()
+int day2()
 {
 	// Part 1
 	map<char, int> scores1 = { {'X', 1}, {'Y', 2}, {'Z', 3}};

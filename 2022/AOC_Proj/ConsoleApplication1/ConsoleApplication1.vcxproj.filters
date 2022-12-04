@@ -21,6 +21,9 @@
     <ClCompile Include="Day2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Day3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileReader.h">
@@ -29,6 +32,9 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="input3.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
